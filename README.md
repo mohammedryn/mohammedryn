@@ -3,7 +3,7 @@
 🎓 Electronics Engineering @ MSRIT  
 ⚙️ Robotics | Embedded Systems | Edge AI | Automation  
 🧠 Making hardware intelligent and robots human-aware  
-📦 Explore my projects in [portfolio]([https://github.com/mohammedryn?tab=repositories](https://mohammedryn.github.io/robotics-portfolio/))
+📦 Explore my projects in [portfolio](https://mohammedryn.github.io/robotics-portfolio/)
 
 ---
 
