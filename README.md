@@ -4,7 +4,7 @@
 ⚙️ Robotics | Embedded Systems | Edge AI | Automation  
 🧠 Making hardware intelligent and robots human-aware  
 📦 Explore my projects in [portfolio](https://mohammedryn.github.io/robotics-portfolio/)
-📄 [View My Resume (PDF)](https://mohammedryn.github.io/mohammedryn/RayanCV.pdf)
+📄 [View My Resume (PDF)](https://mohammedryn.github.io/mohammedryn/Mohammed_Rayan_Robotics_Internship_CV_pdf.pdf)
 
 
 
