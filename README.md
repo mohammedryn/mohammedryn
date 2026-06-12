@@ -1,16 +1,91 @@
-# Hello, I'm Mohammed Rayan
+<div align="center">
 
-Electronics Engineering @ MSRIT  
-Robotics | Embedded Systems | Edge AI | Automation  
-Making hardware intelligent and robots human-aware  
-Explore my projects in [portfolio](https://mohammedrayan.framer.website/)
-<!-- 📄 [View My Resume (PDF)](https://mohammedryn.github.io/mohammedryn/Mohammed_Rayan_Robotics_Internship_CV.pdf)
-)-->
+# Mohammed Rayan
+
+**Electronics & Instrumentation · MSRIT, Bengaluru · Class of 2027**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://mohammedrayan.framer.website/)
+[![Resume](https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://mohammedryn.github.io/mohammedryn/Mohammed_Rayan_Robotics_Internship_CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-SLUG)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedrah1289@gmail.com)
+
+</div>
+
 ---
 
-## 🧰 Tech Stack
--Languages: C/C++ (embedded, RTOS-aware), Python, Embedded C
--Robotics & ROS2: ROS2 Jazzy, Nav2 (SLAM Toolbox, EKF localization, costmaps, behavior trees), Gazebo, URDF/TF, rclpy, autonomous exploration (explore lite), state-machine mission control
--Embedded Systems & Protocols: ARM Cortex-M, Teensy 4.1, STM32, ESP32, Raspberry Pi, Arduino (AVR/Nano), UART, SPI, I2C, CAN, USB, PWM, GPIO, ADC/DAC, DMA, timer interrupts, watchdog timers
--RTOS & Firmware: FreeRTOS, DMA (ping-pong), interrupt-driven architecture, low-power modes, ESP-IDF, (MCPWM, LEDC).
--Debug & Tools: GDB, oscilloscopes, pytest (TDD), CMake, Make, J-Link, logic analyzers, Git, CI/CD (GitHub Actions), systematic hardware debugging (wiring/brownout root-cause analysis)
+Third-year EI student at MSRIT. I build autonomous robots and the embedded firmware underneath them — C/C++ on bare metal, FreeRTOS where real-time matters, ROS2 where things need to navigate. Current obsession: getting a 4-DOF arm to actually generalize from 30 demos.
+
+---
+
+## What I'm Building
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [**Aurora**](https://github.com/mohammedryn/aurora) | Mecanum-drive AMR — autonomous SLAM mapping, Nav2 path planning, frontier exploration, 50 Hz EKF localization on RPi 5. 149 commits, built solo. | ROS2 Jazzy · Nav2 · ESP32-P4 · FreeRTOS · C++ · Python |
+| [**VLA Arm**](https://github.com/mohammedryn/vla-arm) | 4-DOF arm data-collection rig for ACT policy training. Multimodal sensor fusion (IMU + ToF) with checksummed binary protocol; custom LeRobot driver for language-conditioned teleoperation. | Teensy 4.1 · FreeRTOS · Python · LeRobot · C++17 |
+| [**RTOSTwin**](https://github.com/mohammedryn/rtostwin) | Runtime observability platform for FreeRTOS. Live task/heap/CPU telemetry → Prometheus → Grafana. 0.87% CPU overhead, 2543 B static RAM, 8-hour zero-drop soak run. | C · FreeRTOS · STM32 · Python |
+| [**Power Quality Analyzer**](https://github.com/mohammedryn/power-quality) | 5 kHz synchronized acquisition, 13th-order harmonic analysis, TFLite disturbance classification (sag, swell, transient, flicker). 35 automated tests covering firmware-host parity and protocol recovery. | C++ · Python · Teensy 4.1 · TFLite · PyWavelets |
+
+---
+
+## Stack
+
+**Firmware & RTOS**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8AC4FF?style=flat-square&logoColor=black)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Zephyr](https://img.shields.io/badge/Zephyr_RTOS-4A90D9?style=flat-square&logoColor=white)
+![DMA](https://img.shields.io/badge/DMA_ping--pong-555555?style=flat-square)
+
+**Robotics**
+
+![ROS2](https://img.shields.io/badge/ROS2_Jazzy-22314E?style=flat-square&logo=ros&logoColor=white)
+![Nav2](https://img.shields.io/badge/Nav2-22314E?style=flat-square&logo=ros&logoColor=white)
+![SLAM](https://img.shields.io/badge/SLAM_Toolbox-22314E?style=flat-square&logo=ros&logoColor=white)
+![ros2_control](https://img.shields.io/badge/ros2__control-22314E?style=flat-square&logo=ros&logoColor=white)
+![EKF](https://img.shields.io/badge/robot__localization_EKF-22314E?style=flat-square&logo=ros&logoColor=white)
+
+**Hardware**
+
+![Teensy](https://img.shields.io/badge/Teensy_4.1_(iMX_RT1062)-888888?style=flat-square)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32--P4-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![RPi](https://img.shields.io/badge/Raspberry_Pi_5-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+**Protocols**
+
+![UART](https://img.shields.io/badge/UART-555555?style=flat-square)
+![SPI](https://img.shields.io/badge/SPI-555555?style=flat-square)
+![I2C](https://img.shields.io/badge/I2C-555555?style=flat-square)
+![CAN](https://img.shields.io/badge/CAN_bus-555555?style=flat-square)
+![DMA](https://img.shields.io/badge/DMA-555555?style=flat-square)
+![USB](https://img.shields.io/badge/USB-555555?style=flat-square)
+
+**ML & Inference**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![LeRobot](https://img.shields.io/badge/LeRobot-FFD700?style=flat-square&logoColor=black)
+
+**Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest_TDD-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat-square&logoColor=white)
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedryn&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedryn&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=jupyter%20notebook)
+
+</div>
