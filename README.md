@@ -5,8 +5,7 @@
 **Electronics & Instrumentation · MSRIT, Bengaluru · Class of 2027**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://mohammedrayan.framer.website/)
-[![Resume](https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://mohammedryn.github.io/mohammedryn/Mohammed_Rayan_Robotics_Internship_CV.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-SLUG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN-SLUG](https://www.linkedin.com/in/mohammed-rayan-117b411b2/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedrah1289@gmail.com)
 
 </div>
@@ -63,12 +62,6 @@ Third-year EI student at MSRIT. I build autonomous robots and the embedded firmw
 ![DMA](https://img.shields.io/badge/DMA-555555?style=flat-square)
 ![USB](https://img.shields.io/badge/USB-555555?style=flat-square)
 
-**ML & Inference**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
-![LeRobot](https://img.shields.io/badge/LeRobot-FFD700?style=flat-square&logoColor=black)
 
 **Tools**
 
