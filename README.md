@@ -20,10 +20,10 @@ Third-year EI student at MSRIT. I build autonomous robots and the embedded firmw
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**Aurora**](https://github.com/mohammedryn/aurora) | Mecanum-drive AMR — autonomous SLAM mapping, Nav2 path planning, frontier exploration, 50 Hz EKF localization on RPi 5. 149 commits, built solo. | ROS2 Jazzy · Nav2 · ESP32-P4 · FreeRTOS · C++ · Python |
-| [**VLA Arm**](https://github.com/mohammedryn/vla-arm) | 4-DOF arm data-collection rig for ACT policy training. Multimodal sensor fusion (IMU + ToF) with checksummed binary protocol; custom LeRobot driver for language-conditioned teleoperation. | Teensy 4.1 · FreeRTOS · Python · LeRobot · C++17 |
-| [**RTOSTwin**](https://github.com/mohammedryn/rtostwin) | Runtime observability platform for FreeRTOS. Live task/heap/CPU telemetry → Prometheus → Grafana. 0.87% CPU overhead, 2543 B static RAM, 8-hour zero-drop soak run. | C · FreeRTOS · STM32 · Python |
-| [**Power Quality Analyzer**](https://github.com/mohammedryn/power-quality) | 5 kHz synchronized acquisition, 13th-order harmonic analysis, TFLite disturbance classification (sag, swell, transient, flicker). 35 automated tests covering firmware-host parity and protocol recovery. | C++ · Python · Teensy 4.1 · TFLite · PyWavelets |
+| [**Aurora**](https://github.com/mohammedryn/Aurora---Autonomous-Mobile-Robot) | Mecanum-drive AMR — autonomous SLAM mapping, Nav2 path planning, frontier exploration, 50 Hz EKF localization on RPi 5. 149 commits, built solo. | ROS2 Jazzy · Nav2 · ESP32-P4 · FreeRTOS · C++ · Python |
+| [**VLA Arm**](https://github.com/mohammedryn/VLA_Arm) | 4-DOF arm data-collection rig for ACT policy training. Multimodal sensor fusion (IMU + ToF) with checksummed binary protocol; custom LeRobot driver for language-conditioned teleoperation. | Teensy 4.1 · FreeRTOS · Python · LeRobot · C++17 |
+| [**RTOSTwin**](https://github.com/mohammedryn/RTOSTwin) | Runtime observability platform for FreeRTOS. Live task/heap/CPU telemetry → Prometheus → Grafana. 0.87% CPU overhead, 2543 B static RAM, 8-hour zero-drop soak run. | C · FreeRTOS · STM32 · Python |
+| [**Power Quality Analyzer**](https://github.com/mohammedryn/Real-time-power-quality-monitoring-system) | 5 kHz synchronized acquisition, 13th-order harmonic analysis, TFLite disturbance classification (sag, swell, transient, flicker). 35 automated tests covering firmware-host parity and protocol recovery. | C++ · Python · Teensy 4.1 · TFLite · PyWavelets |
 
 ---
 
